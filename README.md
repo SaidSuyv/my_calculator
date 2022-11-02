@@ -10,4 +10,4 @@ This is only a simple project just for fun, I hope you all enjoy it and don't he
 
 You can see this project online in the following link:
 
-(My Calculator)[https://saidsuyv.github.io/my_calculator]
+[My Calculator](https://saidsuyv.github.io/my_calculator)
