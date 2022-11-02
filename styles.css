@@ -23,7 +23,7 @@ h1
 .container
 {
     border-radius: 15px;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .container .screen
